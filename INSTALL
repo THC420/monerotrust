@@ -1,0 +1,9 @@
+Building MoneroTrust
+
+See doc/readme-qt.rst for instructions on building MoneroTrust QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of MoneroTrust.
+
+See doc/build-*.txt for instructions on building monerotrustd,
+the intended-for-services, no-graphical-interface, reference
+implementation of MoneroTrust.

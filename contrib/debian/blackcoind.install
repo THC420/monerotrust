@@ -1,0 +1,2 @@
+debian/bin/monerotrustd usr/bin
+src/monerotrustd usr/lib/monerotrust
